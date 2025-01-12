@@ -51,8 +51,8 @@ body {
 }
 
 .img {
-    margin: 0 auto -20px auto;
-    width: 80%;
+    margin: 0 auto 10px auto;
+    width: 100%;
     height: auto;
     display: block;
     border: 0px solid black;
